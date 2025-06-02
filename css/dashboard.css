@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+}
+.header{
+    width: 100%;
+    height: 800px;
+}
+.menu{
+    width: 200px;
+    height: 800px;
+    background-color: black;
+}
+.SnowUi{
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.menubox{
+    width: 100px;
+    height: 35px;
+    background-color: #1e1d1d;
+    margin-top: 20px;
+    margin-left: 25px;
+    align-items: center;
+    border-radius: 5px;
+}
+.inner-box{
+    width: 10px;
+    height: 10px;
+    background-color: aqua;
+    align-items: center;
+}
+.menubox-1{
+    width: 100px;
+    height: 35px;
+    background-color: #1e1d1d;
+    margin-top: 20px;
+    margin-left: 25px;
+    align-items: center;
+    border-radius: 5px;
+}
+.overview{
+    width: 85%;
+    height: 800px;
+    background-color:#1e1d1d;
+    margin-top: -800px;
+    margin-left: 200px;
+}
+
+
+
+.graph-box{
+    width: 800px;
+    height: 300px;
+    background-color: #1e1d1d;
+    border-radius: 20px;
+}
+.overview-menu{
+    width: 100%;
+    height: 50px;
+    background-color:#1e1d1d;
+}
+.views{
+    width: 100%;
+    height: 150px;
+    background-color: #1e1d1d;
+}
+.user-graph{
+    width: 100%;
+    height: 400px;
+    background-color: #313131;
+}
+.ss{
+    width: 100%;
+    height: 300px;
+    padding-top: 110px;
+}
+.container{
+    width: 30%;
+  align-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px;
+}
+.users-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: rgb(133, 133, 133);
+    
+}
+.container-2{
+    width: 30%;
+  align-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 70%;
+    margin-top: -40px;
+
+}
+.analytics{
+    width: 60px;
+    height: 30px;
+    background-color: #4c4c4c ;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    
+}
+.text{
+    margin-top: 5px;
+}
